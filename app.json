@@ -17,7 +17,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jongan69.FloppyCock"
     },
     "android": {
       "adaptiveIcon": {
